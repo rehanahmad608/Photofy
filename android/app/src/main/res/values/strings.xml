@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Replace "343254889799245" with your Facebook App ID here. -->
+    <string name="app_name">com.example.photofy</string>
+    <string name="facebook_app_id">564489774853335</string>
+    <string name="fb_login_protocol_scheme">fb564489774853335</string>
+</resources>
